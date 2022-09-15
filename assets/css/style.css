@@ -1,0 +1,256 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+.nav {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.nav h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Removed the Class of "seo" and changed the tag to "span" - unnecessary - if there were more than 1 x span element one will use different classes for each span element */
+/* .header h1 .seo  */
+
+/* span setting is required as the color of the 3 letters are different */
+
+span {
+    color: #d9dcd6;
+}
+
+.nav ul {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Removed the setting below, it is not required and serves no purpose - it refers to "The list-style-type specifying the type of list-item marker in a list" > Not required */
+
+/* .header div ul { */
+    /* list-style-type: none; */
+/* } */
+
+/* Although I changed the <div> to a <nav> tag in the HTML file, one still requires the ".nav class" as many styling settings are linked to the header class - so did not change the class */
+
+.nav ul li {
+    display: inline-block; 
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Added the "Text-align - Justify" attribute below - looks more rounded and professional on a website */
+
+p {
+    font-size: 16px;
+    text-align: justify;
+    color: white;
+}
+
+/* Added a <a href> element with class "backtothetop" - <a href="#top"> - for users to be able to click once on the item, to quickly navigate back to the topnav items. Does not trender good at all as not really repsponsive in design? */
+
+p.backtothetop   {
+    margin-top: 40px;
+    font-size: 15px;
+    text-align: start;
+    font-weight: bold;
+}
+
+/* Added the Id below for the "heropic" as part of the header section in the HTML file" */
+
+#heropic    {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+/* Removed the below as not following best practice, cannot create accessibility with an Alt attribute and was replaced with 1 x class having 1 x setting as per the above */
+
+/* .hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+} */
+
+/* The 2 x "Float" attributes below is sloppy and not best practice. The image should be fixed with the wording next to it. I do not know what the intent of the developer is here - will first conduct a requirement discovery session and then jointly decide to change or not  */
+
+.float-left {
+    float: left;
+    margin-right: 25px;}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Refer comment above */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* CSS - Reshuffled all attributes so the classes and sections are together - also got them to be in the same chronological order as the HTML file*/
+
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* CSS - Reshuffled all attributes so the classes and sections are together - also got them to be in the same chronological order as the HTML file*/
+
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+/* CSS - Reshuffled all attributes so the classes and sections are together - also got them to be in the same chronological order as the HTML file*/
+
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+    max-height: 200px;
+}
+
+/* .online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+} */
+
+/* .online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+} */
+
+/* .online-reputation-management img {
+    max-height: 200px;
+} */
+
+/* .social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+} */
+
+/* .social-media-marketing img {
+    max-height: 200px;
+} */
+
+/* .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+} */
+
+/* The "Clear" and "Float" attributes below is sloppy and not best practice. The image should be fixed with the wording next to it. I do not know what the intent of the developer is here - will first conduct a requirement discovery session and then jointly decide to change or not  */
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Consolidate h3 and img CSS into 1 x class ".benefit" - changed from individual "benefit-brand", "benefit-lead" and "benefit-cost" classes*/
+
+.benefit {
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+/* .benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+} */
+
+/* Consolidate h3 and img CSS into 1 x class ".benefit" - changed from individual "benefit-brand", "benefit-lead" and "benefit-cost" classes*/
+
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 5px auto;
+    max-width: 150px;
+}
+
+/* Consolidate h3 and img CSS into 1 x class ".benefit" - changed from individual "benefit-brand", "benefit-lead" and "benefit-cost" classes*/
+
+
+/* .benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+} */
+
+/* Changed the .footer padding to 0px - top space too wide between "content and footer" sections */
+
+.backtothetop1  {
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.footer {
+    padding: 0px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
+/* Added .footer p to get the different font, color and center alignment rectified */
+
+.footer p   {
+    text-align: center;
+    color: black;
+}
