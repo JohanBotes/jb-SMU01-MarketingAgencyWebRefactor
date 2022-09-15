@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* This challenge refers to the th DIV-Soup - I have changed most all DIV elements tyo proper semantics */
+
 body {
     background-color: #d9dcd6;
 }
