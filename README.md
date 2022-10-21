@@ -1,4 +1,4 @@
-# Johan Botes - SMU Bootcamp - Module 1 Challenge
+# Johan Botes - SMU Bootcamp Module 1 Horiseon Webpage Challenge
 
 #### GitHub Repository link:  https://github.com/JohanBotes/jbhoriseon01  
 
