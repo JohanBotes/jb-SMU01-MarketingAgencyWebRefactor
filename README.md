@@ -23,5 +23,5 @@ Feedback on Challenge content submitted:
 - The URL of the deployed application - Submitted
 - The URL of the GitHub repository, with a unique name and a README that describes the project - Submitted
 
-![GitHub Logo](/images/jbhoriseon Image 1.png)
-![GitHub Logo](/images/jbhoriseon Image 2.png)
+![GitHub Logo](/assets/images/jbhoriseon Image 1.png)
+![GitHub Logo](/assets/images/jbhoriseon Image 2.png)
