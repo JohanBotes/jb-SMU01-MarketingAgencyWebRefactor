@@ -23,4 +23,4 @@
 - The URL of the deployed application - Submitted
 - The URL of the GitHub repository, with a unique name and a README that describes the project - Submitted
 
-![Horiseon Webpage 1](Horiseon webpage.png)
+![Horiseon Webpage 1](https://github.com/JohanBotes/jb-SMU01-Horiseon01/blob/main/Horiseon%20Webpage.png)
