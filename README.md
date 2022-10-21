@@ -2,7 +2,7 @@
 
 #### GitHub Repository link:  https://github.com/JohanBotes/jb-SMU01-Horiseon01
 
-#### Live website URL: https://johanbotes.github.io/jbhoriseon01/
+#### Live website URL:  https://johanbotes.github.io/jb-SMU01-Horiseon01/
 
 ## Feedback on Challenge content submitted:
 
