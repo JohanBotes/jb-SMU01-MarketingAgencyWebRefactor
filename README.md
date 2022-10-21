@@ -1,4 +1,4 @@
-# Johan Botes - SMU Bootcamp Module 1 Horiseon Webpage Challenge
+# SMU Bootcamp Module 1 Horiseon Webpage Challenge
 
 #### GitHub Repository link:  https://github.com/JohanBotes/jbhoriseon01  
 
@@ -23,7 +23,3 @@
 - The URL of the deployed application - Submitted
 - The URL of the GitHub repository, with a unique name and a README that describes the project - Submitted
 
-### Images of Horiseon webpage?
-
-![GitHub Logo](./assets/images/jbhoriseon Image 1.png)
-![GitHub Logo](./assets/images/jbhoriseon Image 2.png)
