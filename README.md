@@ -25,5 +25,5 @@
 
 ![Horiseon Webpage 1](https://github.com/JohanBotes/jb-SMU01-Horiseon01/blob/main/Horiseon%20Webpage.png)
 
-![Horiseon Webpage 3](https://github.com/JohanBotes/jb-SMU01-Horiseon01/blob/main/Horiseon%20Webpage.png)
+![Horiseon Webpage 3](https://github.com/JohanBotes/jb-SMU01-Horiseon01/blob/main/Horiseon%20webpage2.png)
 
