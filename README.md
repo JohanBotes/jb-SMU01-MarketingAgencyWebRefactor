@@ -1,4 +1,4 @@
-Johan Botes - SMU Bootcamp - Challenge 1 Submission
+Johan Botes - SMU Bootcamp - Module 1 Challenge
 
 GitHub Repository link:  https://github.com/JohanBotes/jbhoriseon01  
 
