@@ -1,6 +1,6 @@
 # SMU Bootcamp Module 1 Horiseon Webpage Challenge
 
-#### GitHub Repository link:  https://github.com/JohanBotes/jbhoriseon01  
+#### GitHub Repository link:  https://github.com/JohanBotes/jb-SMU01-Horiseon01
 
 #### Live website URL: https://johanbotes.github.io/jbhoriseon01/
 
