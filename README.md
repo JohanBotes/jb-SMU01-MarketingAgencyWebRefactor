@@ -4,7 +4,7 @@
 
 #### Live website URL:  https://johanbotes.github.io/jb-SMU01-Horiseon01/
 
-## Feedback on Challenge content submitted:
+## Evaluation Criteria > Feedback
 
 - Satisfies all acceptance criteria per instructions provided  ✅
 - Application links all function correctly  ✅
@@ -22,6 +22,8 @@
 - The repository contains a quality README file with a description, screenshot, and link to the deployed application  ✅
 - The URL of the deployed application - Submitted  ✅
 - The URL of the GitHub repository, with a unique name and a README that describes the project - Submitted  ✅
+
+## Images:
 
 ![Horiseon Webpage 1](https://github.com/JohanBotes/jb-SMU01-Horiseon01/blob/main/Horiseon%20Webpage.png)
 
