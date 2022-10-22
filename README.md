@@ -1,6 +1,5 @@
 # SMU Bootcamp Module 1 - Horiseon Webpage code review
 
-- GitHub Repository link:  https://github.com/JohanBotes/jb-SMU01-Horiseon01
 - Live website URL:  https://johanbotes.github.io/jb-SMU01-Horiseon01/
 
 ## Evaluation Criteria > Feedback
