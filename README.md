@@ -1,6 +1,6 @@
 # SMU Bootcamp Module 1 - Horiseon Marketing Agency Website Code Refactor
 
-- Live website URL:  https://johanbotes.github.io/jb-SMU01-Horiseon01/
+- Live website URL:  https://johanbotes.github.io/jb-SMU01-MarketingAgencyWebRefactor/
 
 ## Evaluation Criteria > Feedback
 
