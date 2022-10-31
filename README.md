@@ -1,6 +1,6 @@
 # SMU Bootcamp Module 1 - Marketing Agency Website Code Refactor
 
-- Live website URL: [Marketing Agency Landing Page] (https://johanbotes.github.io/jb-SMU01-MarketingAgencyWebRefactor/)
+- Live website URL: [Marketing Agency Landing Page](https://johanbotes.github.io/jb-SMU01-MarketingAgencyWebRefactor/)
 
 ## Evaluation Criteria > Feedback
 
